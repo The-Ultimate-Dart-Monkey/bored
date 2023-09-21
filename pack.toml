@@ -1,0 +1,17 @@
+name = "Forge"
+author = "Monke"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b92ae389aeadeef3360ef454ffa684c8500004662d09f7b031ba31d35214e475"
+
+[versions]
+forge = "43.2.23"
+minecraft = "1.19.2"
+
+[options]
+acceptable-game-versions = ["1.19.2", "1.19.1", "1.19"]
+datapack-folder = "/global_packs/required_data/"

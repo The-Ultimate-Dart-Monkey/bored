@@ -1,0 +1,13 @@
+name = "Actions of Stamina"
+filename = "actions-of-stamina-1.19.2-0.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4344e3d89d93e430322a4e23897581083613782e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4524720
+project-id = 834738

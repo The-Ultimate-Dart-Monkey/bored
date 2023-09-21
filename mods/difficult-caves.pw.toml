@@ -1,0 +1,13 @@
+name = "Difficult Caves"
+filename = "Difficult Caves 1.0.0 - 1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fc26cbf7a44a6872c5c0f18f6d244cef7890d8dd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4384949
+project-id = 822831

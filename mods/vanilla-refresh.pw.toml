@@ -1,0 +1,13 @@
+name = "Vanilla Refresh"
+filename = "vanilla-refresh-1.4.16h.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gWO6Zqey/versions/6L2svftd/vanilla-refresh-1.4.16h.jar"
+hash-format = "sha1"
+hash = "c79a73b5c445926b826d35a14c76ad0a9487f353"
+
+[update]
+[update.modrinth]
+mod-id = "gWO6Zqey"
+version = "6L2svftd"

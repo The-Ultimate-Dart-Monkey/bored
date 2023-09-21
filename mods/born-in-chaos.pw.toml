@@ -1,0 +1,13 @@
+name = "Born in Chaos"
+filename = "born_in_chaos_[Forge]1.19.2_1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7b6b9b47f0f2ae633524191933e3b2704a9dbab4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4725370
+project-id = 686437
