@@ -3,4 +3,5 @@
 
 # Exclude README
 /README.md
-/index.html
+/download.ps1
+/.gitignore
