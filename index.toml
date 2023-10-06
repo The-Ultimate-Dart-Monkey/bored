@@ -64,6 +64,11 @@ hash = "90a4984cda3de8f1309a40aae2d4c7b6a70cde2c0fc0bfacddfe06a33f544ed5"
 metafile = true
 
 [[files]]
+file = "mods/biomesize.pw.toml"
+hash = "42b0aef4a3cfd046ab44b0cf99c0c89b82adf0eb81f601306ed4ccb91d68b9de"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "3094a52897889217e37bf772fa43727fc4a7f81d0dc9a5e25be933630192bcbb"
 metafile = true
@@ -114,6 +119,11 @@ hash = "da846a1996aa33210b2e000a0571b0608c04144b60775a4b8e72c009d95d2e28"
 metafile = true
 
 [[files]]
+file = "mods/continents.pw.toml"
+hash = "230c1a480d27d53a339b064c4d9cb07b7f8411180bd67f220669d55e18832d74"
+metafile = true
+
+[[files]]
 file = "mods/coralreef.pw.toml"
 hash = "9d4bc774bcfdb62a11a896014e4e649f9f46af7e21f0829e07a252b67a86bf62"
 metafile = true
@@ -141,6 +151,11 @@ metafile = true
 [[files]]
 file = "mods/daves-potioneering.pw.toml"
 hash = "451023d71c4eb4939bc6473572b1c1a88e2d251fe908dfbf1cc7391e21ac82bc"
+metafile = true
+
+[[files]]
+file = "mods/deeper-nether-biomes.pw.toml"
+hash = "07c05622880ca91094c3a3b1980b339aa520647ba8a42e9ac6c45d8017ad9d47"
 metafile = true
 
 [[files]]
@@ -219,6 +234,11 @@ hash = "58f1d986055695cc94eda91412dc509c47d7b68e5acbce9743a5d0f0609c0b65"
 metafile = true
 
 [[files]]
+file = "mods/endremastered.pw.toml"
+hash = "2a78b217e2d77077007723f87eef6ca2508bfa6ef32e421482a7fed30aee7580"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-celestials.pw.toml"
 hash = "73fff15b5227bacd5c789999e6a4b563fba99b780c32783fcfa8d7c4a9372b3c"
 metafile = true
@@ -254,6 +274,11 @@ hash = "b9dbe3c19f9dfb75d17bfc4096c4c09ff382d9f2738ae2ad0f6024a9b9e8dd6f"
 metafile = true
 
 [[files]]
+file = "mods/ferdinands-flowers.pw.toml"
+hash = "062adc5e64cdfd0352e31aa826e20d0214f21840e3882f3788f15233f3dc0713"
+metafile = true
+
+[[files]]
 file = "mods/first-person-model.pw.toml"
 hash = "04e62ba1cb5eb9c85a03ac04dae6598e662c79b925939594d87a17394be80d2d"
 metafile = true
@@ -261,6 +286,11 @@ metafile = true
 [[files]]
 file = "mods/fish-of-thieves.pw.toml"
 hash = "359e4cb567f31a834c5b65f3209017dd55413aa14be284675f19c85213c33ff4"
+metafile = true
+
+[[files]]
+file = "mods/forgeendertech.pw.toml"
+hash = "8bf8fca986e0d08524a13b0e635c05d2c9a0a9b9a31cd90d647bbf1b54aa6c02"
 metafile = true
 
 [[files]]
@@ -314,6 +344,11 @@ hash = "10a0de9b77bb7287eea04c050f30109a1364ee08f54ae29ac11fa2be1e9f476b"
 metafile = true
 
 [[files]]
+file = "mods/large-ore-deposits.pw.toml"
+hash = "61a9c3157c16264f1dc8235c935509da803e19c6d5571012e603eea696c3c4de"
+metafile = true
+
+[[files]]
 file = "mods/legendary-tooltips.pw.toml"
 hash = "a2961c6134993521eda1a60ca4de659d68ba898d774b42b3c992311999f41424"
 metafile = true
@@ -354,8 +389,18 @@ hash = "5e7b677bba9e5efc755475795d8a22ec30ef55257740faf4cbb48e277c13d326"
 metafile = true
 
 [[files]]
+file = "mods/nether-remastered.pw.toml"
+hash = "25fb74d27bf1f97bc3ec323a0cfbf5132a012d8a3bfca07b326f6d20c13ad2fb"
+metafile = true
+
+[[files]]
 file = "mods/nethers-delight.pw.toml"
 hash = "7942da454d725373481664c245954c24764d26317968c8c4473743e5f54bbf1d"
+metafile = true
+
+[[files]]
+file = "mods/new-world-height-and-depth.pw.toml"
+hash = "68651c78438440eebc7a291971b170e4dcc3feb1250f46add733132dd78ebc27"
 metafile = true
 
 [[files]]
@@ -441,6 +486,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "a397268daa3488b900b3e49ae2675ef28d77bfadd5aa0168df69d234456657d2"
+metafile = true
+
+[[files]]
+file = "mods/rings-of-ascension.pw.toml"
+hash = "dbbae0646288fa79c60f05fa5aa7273dcd137a761ee60d61c0d3eea7fbd17d4a"
 metafile = true
 
 [[files]]

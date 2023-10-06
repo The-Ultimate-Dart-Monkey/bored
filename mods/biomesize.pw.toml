@@ -1,0 +1,13 @@
+name = "Biome Sizes[Forge/Fabric]"
+filename = "smallbiomes-1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1b7c3fa0be353e6e39d7ba3d7ece22b657be2949"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4510674
+project-id = 775502

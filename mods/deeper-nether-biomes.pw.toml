@@ -1,0 +1,13 @@
+name = "Deeper Nether Biomes"
+filename = "deeper_nether_biomes-3.0.0-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "026531c733f1d1219676fb0ec3d8166605d3ec27"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4041411
+project-id = 416108

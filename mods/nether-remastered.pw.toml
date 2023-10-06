@@ -1,0 +1,13 @@
+name = "Nether Remastered"
+filename = "NetherRemastered-1.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c8017ce6dbf55d78def72343c38ab67041f281e8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4628558
+project-id = 872516
