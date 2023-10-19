@@ -1,13 +1,13 @@
 name = "Thirst Was Taken"
-filename = "ThirstWasTaken-1.19.2-1.3.2.jar"
+filename = "ThirstWasTaken-1.19.2-1.3.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9d332cd9cbfc0f214102f7d653fef62412a5b53b"
+hash = "c8654a0c430da3dd09628023522ae8289147765c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4721666
+file-id = 4794520
 project-id = 679270
